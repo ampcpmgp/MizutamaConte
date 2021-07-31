@@ -1,3 +1,6 @@
+Mizutama Conteにようこそ。
+Please refer to [here](README_en.md) for English readme file.
+
 # Mizutama Conte [\[Demo Site\]](https://studio-mizutama.github.io/MizutamaConte/)
 
 ![screenshot](./screenshot.png)
